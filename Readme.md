@@ -95,10 +95,10 @@ npm install
 npm run dev
 
 A aplicação estará acessível em: http://localhost:5173
+
 ````
-
 ### 📝 Detalhes Visuais e Estéticos
-
+````
 Home.vue
 Fundo com linear-gradient
 
@@ -124,4 +124,4 @@ Desenvolvido por: Tiago Looze
 🔗 LinkedIn
 🐙 GitHub
 📧 Email: thpldevweb@gmail.com
-````
+
