@@ -23,7 +23,7 @@ A interface foi desenvolvida com foco em **design visual moderno** e UX, incluin
 
 - [Laravel  9.52.20](https://laravel.com/)
 - API RESTful para operações CRUD
-- Banco de dados: SQLite (ou MySQL/PostgreSQL)
+- Banco de dados: SQLite (MySQL)
 - CORS configurado com Fruitcake
 - Roteamento via `routes/api.php`
 - Migrations e Eloquent ORM
