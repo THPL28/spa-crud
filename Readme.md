@@ -121,7 +121,7 @@ Transição de abertura suave
 
 ### 📬 Contato
 Desenvolvido por: Tiago Looze
-🔗 LinkedIn
-🐙 GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/tiago-looze-b1a0001b7/
+🐙 GitHub: https://github.com/THPL28/
 📧 Email: thpldevweb@gmail.com
 
