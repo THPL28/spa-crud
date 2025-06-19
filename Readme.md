@@ -52,11 +52,11 @@ spa-crud/
 
 ### Tela Principal
 
-![home](screens/home.png)
+![home](frontend/public/screens/home.png)
 
 ### Modal de Cadastro / Edição
 
-![modal](screens/modal.png)
+![modal](frontend/public/screens/modal.png)
 
 ---
 
