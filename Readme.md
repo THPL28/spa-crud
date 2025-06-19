@@ -73,7 +73,7 @@ spa-crud/
 
 ## 📦 Instalação do Projeto
 
-### 1️⃣ Backend - Laravel (API)
+### 1️ Backend - Laravel (API)
 
 
 ```bash
@@ -85,21 +85,19 @@ php artisan migrate
 php artisan serve
 
 A API estará disponível em: http://127.0.0.1:8000/api/materiais
+````
 
-
-### 2️⃣ Frontend - Vue.js + Vite
+### 2️ Frontend - Vue.js + Vite
 
 ```bash
-Copiar
-Editar
 cd ../frontend
 npm install
 npm run dev
 
 A aplicação estará acessível em: http://localhost:5173
+````
 
-
-📝 Detalhes Visuais e Estéticos
+### 📝 Detalhes Visuais e Estéticos
 
 Home.vue
 Fundo com linear-gradient
@@ -121,7 +119,7 @@ Botões com cores contrastantes e hover
 
 Transição de abertura suave
 
-📬 Contato
+### 📬 Contato
 Desenvolvido por: Tiago Looze
 🔗 LinkedIn
 🐙 GitHub
